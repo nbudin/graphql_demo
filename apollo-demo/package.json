@@ -1,0 +1,19 @@
+{
+  "name": "apollo-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/core": "^7.0.0-beta.34",
+    "@babel/node": "^7.0.0-beta.34",
+    "@babel/preset-env": "^7.0.0-beta.34",
+    "apollo-cache-inmemory": "^1.1.2",
+    "apollo-client": "^2.1.0",
+    "apollo-client-preset": "^1.0.4",
+    "apollo-link-http": "^1.3.0",
+    "babel-cli": "^7.0.0-beta.3",
+    "graphql": "^0.11.7",
+    "graphql-tag": "^2.5.0",
+    "node-fetch": "^1.7.3"
+  }
+}
